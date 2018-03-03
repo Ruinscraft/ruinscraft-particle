@@ -1,5 +1,7 @@
 # ruinscraft-particle
 
+*Deprecated -- moved to https://github.com/Ruinscraft/Powder*
+
 Create particle effects in a config.yml that players can use
 
 Particles can:
